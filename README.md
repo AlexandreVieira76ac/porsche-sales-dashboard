@@ -236,8 +236,8 @@ O principal aprendizado foi compreender que uma dashboard eficiente não depende
 
 ### 1. Dashboard com filtros aplicados
 
-![Dashboard com filtros](PorcheComFiltro.png)
+![Dashboard com filtros](PorcheComFiltro.jpeg)
 
 ### 2. Dashboard sem filtros
 
-![Dashboard sem filtros](PorcheIndex.png)
+![Dashboard sem filtros](PorcheIndex.jpeg)
