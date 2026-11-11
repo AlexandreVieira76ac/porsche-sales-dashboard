@@ -232,3 +232,12 @@ O principal aprendizado foi compreender que uma dashboard eficiente não depende
 **Projeto desenvolvido para fins educacionais como parte dos estudos na Digital Innovation One (DIO).**
 
 **Desenvolvido com apoio do ChatGPT.**
+## Evidências do Projeto
+
+### 1. Dashboard com filtros aplicados
+
+![Dashboard com filtros](PorcheComFiltro.png)
+
+### 2. Dashboard sem filtros
+
+![Dashboard sem filtros](PorcheIndex.png)
